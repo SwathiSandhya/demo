@@ -1,0 +1,48 @@
+ .container-fluid .main-form {
+   
+   margin-left: 50px;
+    width: 800px;
+    height: 100%;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 30px;
+    background-color: grey;
+ 
+    background-image: url("https://universitykart.b-cdn.net//Content/upload/admin/m3afrmyf.mx1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  
+  span {
+    text-transform: capitalize;
+    background-color: orangered;
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 9px;
+    margin-left: 310px;
+    margin-top: 150px;
+   color:white ;
+  }
+  
+  form {
+    margin-top: 50px !important;
+    margin-left: 280px !important;
+    padding: 15px !important;
+    margin-bottom: 50px !important;
+  }
+  
+  .form-group label {
+    margin-top: 15px;
+    color: black;
+    font-family: bold;
+  }
+  
+  .xyz {
+    margin-bottom: 75px;
+  }
+  
+  .xyz button {
+    margin-left: 350px;
+    margin-top: 20px;
+    font-size: 20px;
+  }

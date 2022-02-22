@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    
+    background-image:url("https://images.edexlive.com/uploads/user/ckeditor_images/article/2019/5/15/reva_41.jpg?w=400&dpr=2.6");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

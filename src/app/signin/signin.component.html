@@ -1,0 +1,35 @@
+<div>
+    <form style="background-color: white; margin-top: 20px;" class="main-form">
+      <svg  style="margin-left:180px;"xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="orangered" class="bi bi-person-circle" viewBox="0 0 16 16">
+        <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+        <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+      </svg>
+      <h3 style="margin-top: 5px;">Sign In</h3>
+     
+        <div>
+            <div class="form-group">
+                <label>Email ID</label>
+                <input type="email" class="form-control" placeholder="Email Id">
+              </div>
+               <div class="form-group">
+            <label>Password</label>
+            <input type="password" class="form-control" placeholder="Password">
+          </div>
+        </div>
+          
+
+        <div>
+            <button style="margin-left: 100px; width: 200px; margin-top: 10px;" class="btn btn-info" type="button" (click)="LogIn()">LogIn</button>
+          </div><br>
+          <div class="registor">
+            <a style="margin-top: 10px;"class="text-muted" href="#">Forgot password?</a>
+            <p style="margin-top: 10px;">Don't have an account? <a type="submit" class="link-info"  routerLink= "/header/signout" >SignUp Here</a></p>
+            
+  
+          </div>
+           
+    </form>
+  </div>
+
+
+

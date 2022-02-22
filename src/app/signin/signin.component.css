@@ -1,0 +1,43 @@
+.main-form {
+    width: 450px;
+    height: 130%;
+   
+    box-shadow: 5px 5px 5px  red;
+    border-radius: 30px;
+  
+   }
+   
+.main-form h3 {
+    text-transform: capitalize;
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 9px;
+    font-weight: bold;
+    text-align: center;
+    color: orangered;
+    margin-top: 10px;
+  }
+
+  form {
+    margin-top: 60px !important;
+    margin-left: 470px !important;
+    padding: 15px !important;
+    margin-bottom: 200px !important;
+  }
+
+  .form-group label {
+    margin-top: 10px;
+    color: black;
+   
+  }
+
+.registor{
+    text-align: center;
+}
+.button{
+ 
+  margin-left: 300px;
+  border: 1px solid lightskyblue;
+  border-radius: 30px;
+ 
+}
